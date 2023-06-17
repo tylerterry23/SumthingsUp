@@ -24,10 +24,14 @@ This project is created with:
 To run this project locally, you can clone the repository and open the `index.html` file in any web browser. Alternatively, you can also use a development server such as [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in Visual Studio Code to host the application on your local machine.
 
 1. Clone the repository:
+```
 $ git clone https://github.com/tylerterry23/SumthingsUp.git
+```
 
 2. Go into the repository:
+```
 $ cd SumthingsUp
+```
 
 3. Open `index.html` in a web browser.
 
