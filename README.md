@@ -24,7 +24,7 @@ This project is created with:
 To run this project locally, you can clone the repository and open the `index.html` file in any web browser. Alternatively, you can also use a development server such as [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in Visual Studio Code to host the application on your local machine.
 
 1. Clone the repository:
-$ git clone https://github.com/TylerBTerry/SumthingsUp.git
+$ git clone https://github.com/tylerterry23/SumthingsUp.git
 
 2. Go into the repository:
 $ cd SumthingsUp
@@ -51,11 +51,11 @@ The application is expected to undergo further enhancements such as:
 
 ## Contributions
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/TylerBTerry/SumthingsUp/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/tylerterry23/SumthingsUp/issues) if you want to contribute.
 
 ## Author
 
-Built by [Tyler B. Terry](https://github.com/TylerBTerry).
+Built by [Tyler B. Terry](https://github.com/tylerterry23).
 
 ## License
 
