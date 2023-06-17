@@ -151,10 +151,18 @@ header, h1 {
         margin-top: 70px;
     }
 
+
+    #interaction a:active {
+        background-color: rgb(238, 237, 237);
+        transition: .30s;
+    }
+
     /* Github button */
     #github {
         margin: 80px auto;
     }
+
+    
 
 }
 
